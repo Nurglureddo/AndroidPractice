@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409739333948",
+    "project_id": "arufureddotask",
+    "storage_bucket": "arufureddotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409739333948:android:f9f84659e4711cb65d4e39",
+        "android_client_info": {
+          "package_name": "com.example.arufureddotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409739333948-1v877j58h2j0ukcmmhfeo80jcbhu9fob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEOb7uF4ROd9NMc5sbsAZL6rTm2fbyKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409739333948-1v877j58h2j0ukcmmhfeo80jcbhu9fob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

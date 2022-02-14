@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ArufureddoTask</string>
+    <string name="Company">Arufureddo</string>
+    <string name="Arufureddo_task_manager">Менеджер задач </string>
+    <string name="NoAcc">Зарегистрироваться</string>
+    <string name="HintLog">Введите логин</string>
+    <string name="HintPass">Введите пароль</string>
+    <string name="LoginText">Войти</string>
+    <string name="RegisterText">Зарегистрироваться</string>
+    <string name="RegisterQuestion">Авторизоваться</string>
+    <string name="LoginEmpty">Введите email</string>
+    <string name="PasswordEmpty">Введите пароль</string>
+    <string name="HomeActivity">Начальная страница</string>
+    <string name="FailReg">Регистрация прошла неудачно</string>
+    <string name="RegProg">Регистарция</string>
+    <string name="EmailReq">Электронная почта обязательна</string>
+    <string name="PassReq"> Пароль обязателен</string>
+    <string name="Auth">Авторизация</string>
+    <string name="AddTask">Добавить задачу</string>
+    <string name="Task">Задача</string>
+    <string name="DescriptionTask">Описание задачи</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Save">Сохранить</string>
+</resources>
